@@ -1,1 +1,1 @@
-Hi, I'm Omnikar. I'm an amateur programmer mostly interested in doing stuff with Python. I've also done a little with Unity/C# as well as Swift, although I'm not particularly fluent in Swift as I haven't worked with it in years.
+I'm Omnikar. I'm an amateur programmer mostly interested in doing stuff with Python. I'm also beginning to learn some Rust. I've also done a little with Unity/C# as well as Swift, although I'm not particularly fluent in Swift as I haven't worked with it in years.
