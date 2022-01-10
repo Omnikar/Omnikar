@@ -4,6 +4,6 @@ I'm an amateur programmer mostly interested in doing stuff with Rust and Python.
 
 ### Stats
 
-![Omnikar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omnikar&hide_rank=true&custom_title=GitHub%20Stats)
+![Omnikar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omnikar&hide_rank=true&theme=tokyonight&custom_title=GitHub%20Stats)
 
-![Omnikar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omnikar)
+![Omnikar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omnikar&theme=tokyonight)
