@@ -2,7 +2,7 @@
 
 I'm a programmer mostly interested in doing stuff with Rust and Python. I've also done a little with Unity/C# as well as Swift.
 
-[Helix](https://github.com/helix-editor/helix) is my code editor of choice, and I've largely been an avid contributor to it, my major contributions including [the tutorial](https://github.com/helix-editor/helix/pull/537), [shell commands](https://github.com/helix-editor/helix/pull/547), and [the macro system](https://github.com/helix-editor/helix/pull/1234).
+[Helix](https://github.com/helix-editor/helix) is my code editor of choice, and I've been an avid contributor to it, my major contributions including [the tutorial](https://github.com/helix-editor/helix/pull/537), [shell commands](https://github.com/helix-editor/helix/pull/547), and [the macro system](https://github.com/helix-editor/helix/pull/1234).
 
 My Github profile picture is a Voronoi diagram, generated using my [Voronoi diagrams generator](https://github.com/Omnikar/voronoi_diagrams), which I made as my first Rust project.
 
