@@ -1,3 +1,5 @@
+**IF YOU ARE WITH MIT ADMISSIONS:** You may notice that my real name is not on this account. Please see [this gist](https://gist.github.com/Omnikar/8a13c70e65448c8f756231ce9c474d4a) to verify that the maker portfolio you received linking this GitHub account does in fact belong to me.
+
 ## Hi!
 
 I'm a programmer mostly interested in doing stuff with [Uiua](https://uiua.org), Rust and Python. I've also done a little with Unity/C# as well as Swift.
